@@ -1,19 +1,13 @@
 # 👋 Hi! Welcome to my GitHub page!
 
-## I do these things:
-- 👨‍👩‍👧‍👦 Raise kids and being a husband
-- 🖊️ Writing on medium at: [@niczky12](https://niczky12.medium.com/)
-- 🧑‍🔬 Working as a Data Scientist in AdTech
-
-## Find and connect with me here:
-
-
-[<img alt="Medium @niczky12" width="80px" src="data/medium_logo.png" />](https://niczky12.medium.com/)
-
-[<img alt="Medium @niczky12" width="80px" src="data/linkedin_blue.png" />](https://www.linkedin.com/in/bencekomarniczky/)  
+## I do these:
+- 👨‍👩‍👧‍👦  Raising kids and being a husband
+- 🖊️  Writing on Medium at, see for posts below
+- 📚  Learning Maths, ML and Computer Science in General
+- 🧑‍🔬  Working as a Data Scientist in AdTech
 
 
-# Blog posts
+## [My Medium posts](https://niczky12.medium.com/):
 <!-- BLOG-POST-LIST:START -->
 - [BigQuery Stored Procedure for Permutation Test](https://towardsdatascience.com/bigquery-stored-procedure-for-permutation-test-35597d6379e4?source=rss-29f55325f60b------2)
 - [Advanced Random Sampling in BigQuery SQL](https://towardsdatascience.com/advanced-random-sampling-in-bigquery-sql-7d4483b580bb?source=rss-29f55325f60b------2)
@@ -27,3 +21,13 @@
 - [Learning Julia —the simplest of beginnings](https://towardsdatascience.com/learning-julia-the-simplest-of-beginnings-464f590e5665?source=rss-29f55325f60b------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niczky12&show_icons=true)
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bencekomarniczky/)  too.
+
+---
