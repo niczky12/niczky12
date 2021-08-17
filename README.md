@@ -2,7 +2,7 @@
 
 ## I do these:
 - 👨‍👩‍👧‍👦  Raising kids and being a husband
-- 🖊️  Writing on Medium. See below, for latest posts
+- 🖊️  Writing on Medium
 - 📚  Learning Maths, ML and Computer Science in General
 - 🧑‍🔬  Working as a Data Scientist in AdTech
 
