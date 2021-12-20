@@ -1,9 +1,0 @@
-name: Test deployment
-on:
-  workflow_dispatch:
-jobs:
-  test-mac-version:
-    name: Check latest macos version
-    runs-on: macOS-latest
-    steps:
-      - run: sw_vers
