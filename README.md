@@ -9,16 +9,16 @@
 
 ## [My Medium posts](https://niczky12.medium.com/):
 <!-- BLOG-POST-LIST:START -->
+- [BigQuery UDFs Complete Guide](https://towardsdatascience.com/bigquery-udfs-complete-guide-181cbdaea55b?source=rss-29f55325f60b------2)
+- [Estimating π using polygons](https://towardsdatascience.com/estimating-%CF%80-using-polygons-d1a53a53f408?source=rss-29f55325f60b------2)
+- [Memoize and Cache in Julia](https://towardsdatascience.com/memoize-and-cache-in-julia-48aa98f6549?source=rss-29f55325f60b------2)
+- [Build your first Neural Network with Flux.jl in Julia](https://towardsdatascience.com/build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3?source=rss-29f55325f60b------2)
+- [PyCaret for Classification: An Honest Review](https://towardsdatascience.com/pycaret-review-65cbe2f663bb?source=rss-29f55325f60b------2)
+- [Make a command-line game with Julia](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe?source=rss-29f55325f60b------2)
+- [End-to-End BigQuery Machine Learning](https://towardsdatascience.com/end-to-end-bigquery-machine-learning-e7e6e2e83b34?source=rss-29f55325f60b------2)
+- [Estimate pi using random numbers](https://towardsdatascience.com/estimate-pi-using-random-numbers-8b13a7e8c791?source=rss-29f55325f60b------2)
+- [Jupyter Notebooks Can Be a Pain, but I ❤️ Pluto](https://towardsdatascience.com/jupyter-notebooks-can-be-a-pain-but-i-%EF%B8%8F-pluto-f47913c5c16d?source=rss-29f55325f60b------2)
 - [BigQuery Stored Procedure for Permutation Test](https://towardsdatascience.com/bigquery-stored-procedure-for-permutation-test-35597d6379e4?source=rss-29f55325f60b------2)
-- [Advanced Random Sampling in BigQuery SQL](https://towardsdatascience.com/advanced-random-sampling-in-bigquery-sql-7d4483b580bb?source=rss-29f55325f60b------2)
-- [Joining DataFrames in Julia](https://towardsdatascience.com/joining-dataframes-in-julia-c435e3da32f3?source=rss-29f55325f60b------2)
-- [Index, Sort and Aggregate your DataFrames in Julia](https://towardsdatascience.com/index-sort-and-aggregate-your-dataframes-in-julia-38646daf6214?source=rss-29f55325f60b------2)
-- [Julia DataFrames.jl Basics](https://towardsdatascience.com/julia-dataframes-jl-basics-95dba5146ef4?source=rss-29f55325f60b------2)
-- [Reading CSV files with Julia — Part 2](https://towardsdatascience.com/reading-csv-files-with-julia-part-2-51d74434358f?source=rss-29f55325f60b------2)
-- [Reading CSV files with Julia](https://towardsdatascience.com/reading-csv-files-with-julia-e2623fb62938?source=rss-29f55325f60b------2)
-- [Control flow basics with Julia](https://towardsdatascience.com/control-flow-basics-with-julia-c4c10abf4dc2?source=rss-29f55325f60b------2)
-- [Vectorize everything with Julia](https://towardsdatascience.com/vectorize-everything-with-julia-ad04a1696944?source=rss-29f55325f60b------2)
-- [Learning Julia —the simplest of beginnings](https://towardsdatascience.com/learning-julia-the-simplest-of-beginnings-464f590e5665?source=rss-29f55325f60b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
